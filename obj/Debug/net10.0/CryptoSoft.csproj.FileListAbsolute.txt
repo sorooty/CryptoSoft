@@ -1,0 +1,14 @@
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\bin\Debug\net10.0\CryptoSoft.exe
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\bin\Debug\net10.0\CryptoSoft.deps.json
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\bin\Debug\net10.0\CryptoSoft.runtimeconfig.json
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\bin\Debug\net10.0\CryptoSoft.dll
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\bin\Debug\net10.0\CryptoSoft.pdb
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.AssemblyInfoInputs.cache
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.AssemblyInfo.cs
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.csproj.CoreCompileInputs.cache
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.dll
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\refint\CryptoSoft.dll
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.pdb
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\CryptoSoft.genruntimeconfig.cache
+D:\OneDrive\CESI\FISE A3\6_Genie_Logiciel\PROJET\CryptoSoft\obj\Debug\net10.0\ref\CryptoSoft.dll
