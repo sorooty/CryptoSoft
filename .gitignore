@@ -7,6 +7,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+# Visual Studio cache / options (never commit)
+.vs/
+
+# Agent instructions and local knowledge base (local dev only)
+copilot-instructions.md
+Base_de_Connaissance/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
